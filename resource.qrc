@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>img/edit.png</file>
+        <file>img/greencircle.png</file>
+        <file>img/plus.png</file>
+        <file>img/redcircle.png</file>
+        <file>img/splsh.ico</file>
+        <file>img/splsh.png</file>
+        <file>img/trash.png</file>
+        <file>img/about.ico</file>
+        <file>img/exit.ico</file>
+        <file>img/login.png</file>
+        <file>img/person.png</file>
+        <file>img/lock.png</file>
+        <file>img/user.png</file>
+        <file>img/messagebox_critical.png</file>
+    </qresource>
+</RCC>
